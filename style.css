@@ -3,15 +3,10 @@
     color: green;
   }
 
-  #title {
+   h1 {
     background-color: red;
+  font-size: medium;
   }
+
  
-color: white;
-background-color: black;
-
-
-#Recipe{
-
-background-color: red;
-}
+* body { bg-color: black}
